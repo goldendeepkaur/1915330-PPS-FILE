@@ -12,11 +12,11 @@
 
 #include<stdio.h>
 int main() {
-'''
+
 puts("**************");
 puts("Manraj Singh Sidhu");
 puts("**************");
-'''
+
 return 0;
 }
 Output -  [Imgur](https://i.imgur.com/qZEQBRX.png)
