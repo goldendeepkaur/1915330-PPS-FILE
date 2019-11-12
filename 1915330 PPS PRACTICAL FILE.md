@@ -32,7 +32,9 @@ Output -  [Imgur](https://i.imgur.com/qZEQBRX.png)
 int main() {
 
 printf("\n\t\t\tGuru Nanak Dev Engineering College,");
+
 printf("\n\t\t\tGill Road,");
+
 printf("\n\t\t\tLudhiana , Punjab");
 
 return 0;
