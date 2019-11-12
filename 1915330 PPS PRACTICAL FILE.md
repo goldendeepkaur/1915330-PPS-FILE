@@ -1,9 +1,9 @@
 #                    **PPS PRACTICAL FILE**
 ## My Details
-**Name** - Manraj Singh Sidhu
+*Name*- Manraj Singh Sidhu
 **CRN** -1915330
-**Branch** - CSE(C1)
-**Submitted To** - Goldendeep Kaur
+***Branch*** - CSE(C1)
+****Submitted To**** - Goldendeep Kaur
 
 
 ## 1) To print name using puts.
